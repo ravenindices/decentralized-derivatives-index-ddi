@@ -33,6 +33,6 @@ _DerivaDAO (DDX) was an initial component, but later omitted because of liquidit
 When a new token meets the selection requirements, it is added to the index within 30 days of fulfilling said requirements.
 
 ## Reweighting
-When a new token is added to the index, relative weights will be recalculated based on each tokens market capitalization.
+When a new token is added to the index, relative weights will be recalculated based on each token's market capitalization.
 
 The index methodology may be changed without prior notice.
