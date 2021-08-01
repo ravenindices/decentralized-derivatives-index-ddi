@@ -1,2 +1,2 @@
-# decentralized-derivatives-index-ddi
+# Decentralized Derivatives Index (DDI)
 Index methodology for Decentralized Derivatives Index (DDI).
