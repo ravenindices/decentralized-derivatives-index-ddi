@@ -6,7 +6,7 @@ Decentralized Derivatives Index (DDI) is a market capitalization weighted index 
 
 
 ## Definitions
-- **Decentralized exchange**: An exchange where trading is done in a peer-to-peer, and where users have custody over their own funds.
+- **Decentralized exchange**: An exchange where trading is done peer-to-peer and where users have custody over their own funds.
 - **Derivative**: Any token that tracks the price of another token is a derivative. However, as DDI is designed to track the performance of decentralized exchanges where crypto variants of classical leveraged derivatives such as futures, swaps, and options are traded, governance tokens of synthetic asset protocols are omitted.
 
 
@@ -22,10 +22,10 @@ To qualify for inclusion:
 
 ## Initial tokens
 The following tokens were a part of the index at launch:
-1. Perpetaual Protocol (PERP)
-2. Hegic (HEGIC)
-3. MCDEX (MCB)
-4. FutureS
+1. [Perpetaual Protocol (PERP)](https://www.perp.fi/)
+2. [Hegic (HEGIC)](https://www.hegic.co/)
+3. [MCDEX (MCB)](https://mcdex.io/homepage/)
+4. [FutureSwap (FST)](https://www.futureswap.com/)
 
 _DerivaDAO (DDX) was an initial component, but later omitted because of liquidity considerations_.
 
