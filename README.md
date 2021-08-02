@@ -10,7 +10,8 @@ Decentralized Derivatives Index (DDI) is a market capitalization weighted index 
 - **Derivative**: Any token that tracks the price of another token is a derivative. However, as DDI is designed to track the performance of decentralized exchanges where crypto variants of classical leveraged derivatives such as futures, swaps, and options are traded, governance tokens of synthetic asset protocols are omitted.
 
 
-## Token selection
+## Components
+### Token selection
 To qualify for inclusion:
 
 - The token must be a governance token (or similar) of a decentralized derivatives exchange where derivatives are being traded,
@@ -20,7 +21,7 @@ To qualify for inclusion:
 - The token must not be considered a security.
 
 
-## Initial tokens
+### Initial tokens
 The following tokens were a part of the index at launch:
 1. [Perpetaual Protocol (PERP)](https://www.perp.fi/)
 2. [Hegic (HEGIC)](https://www.hegic.co/)
@@ -29,10 +30,14 @@ The following tokens were a part of the index at launch:
 
 _DerivaDAO (DDX) was an initial component, but later omitted because of liquidity considerations_.
 
-## New tokens
+### New tokens
 When a new token meets the selection requirements, it is added to the index within 30 days of fulfilling said requirements.
 
-## Reweighting
+### Reweighting
 When a new token is added to the index, relative weights will be recalculated based on each token's market capitalization.
 
-The index methodology may be changed without prior notice.
+## Methodology
+The index methodology may be changed without notice.
+
+## Questions
+[Please reach out on Twitter!](https://twitter.com/ravenindices)
