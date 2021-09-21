@@ -21,14 +21,14 @@ To qualify for inclusion:
 - The token must not be considered a security.
 
 
-### Initial tokens
-The following tokens were a part of the index at launch:
+### Current tokens
+The index currently consists of:
 1. [Perpetaual Protocol (PERP)](https://www.perp.fi/)
-2. [Hegic (HEGIC)](https://www.hegic.co/)
-3. [MCDEX (MCB)](https://mcdex.io/homepage/)
-4. [FutureSwap (FST)](https://www.futureswap.com/)
+2. [dYdX Protocol (DYDX)](https://dydx.exchange)
+3. [Hegic (HEGIC)](https://www.hegic.co/)
+4. [MCDEX (MCB)](https://mcdex.io/homepage/)
+5. [FutureSwap (FST)](https://www.futureswap.com/)
 
-_DerivaDAO (DDX) was an initial component, but later omitted because of liquidity considerations_.
 
 ### New tokens
 When a new token meets the selection requirements, it is added to the index within 30 days of fulfilling said requirements.
